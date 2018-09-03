@@ -1,2 +1,2 @@
 # Quantifying Hype
-## Predicting Crypto Trading Behavior with Social Emotion Detection
+## Predicting crypto trading behavior with a combination of social emotion recognition, crypto price and traditional stock market influence
