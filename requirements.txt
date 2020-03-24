@@ -3,7 +3,7 @@ absl-py==0.4.1
 appnope==0.1.0
 astor==0.7.1
 backcall==0.1.0
-bleach==2.1.4
+bleach==3.1.2
 certifi==2018.8.24
 chardet==3.0.4
 cycler==0.10.0
